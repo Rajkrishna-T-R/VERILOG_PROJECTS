@@ -4,7 +4,7 @@ This repo contains the branch which will have all the verilog files we created.
 
 BRANCH IN WHICH THE FILES ARE FIVEN IS 
 
-"digital_clock_fpga"
+"DIGITAL_CLOCK_FPGA"
 
 
 --Paricipants--
