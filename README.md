@@ -2,7 +2,10 @@ Me and my friends have modeled a Digital clock in verilog which is synthesized a
 This repo contains the branch which will have all the verilog files we created.
 
 
-BRANCH IN WHICH THE FILES ARE FIVEN IS digital_clock_fpga
+BRANCH IN WHICH THE FILES ARE FIVEN IS 
+
+"digital_clock_fpga"
+
 
 --Paricipants--
 
