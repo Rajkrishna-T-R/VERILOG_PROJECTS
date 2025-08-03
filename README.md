@@ -43,7 +43,7 @@ This can act as a normal digital clock, also the time can be set using a time se
 This is modeled to show time in railway time format.
 
 
-
+External IP used : Clocking Wizard
 
 
 
